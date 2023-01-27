@@ -1,0 +1,54 @@
+{
+
+ 
+
+  "name": "firstserver",
+
+ 
+
+  "version": "1.0.0",
+
+ 
+
+  "description": "our first nodeJs Server",
+
+ 
+
+  "main": "server.js",
+
+ 
+
+  "scripts": {
+
+ 
+
+   
+
+  "start": "node server.js",
+  "dev":"nodemon server.js"
+
+ 
+
+  },
+
+ 
+
+  "author": "Swati",
+
+ 
+
+  "license": "ISC",
+
+ 
+
+  "dependencies": {
+
+
+  "nodemon": "^2.0.20"
+
+ 
+
+  }
+
+}
+
